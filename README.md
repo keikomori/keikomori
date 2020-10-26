@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Keiko</h1>
 <h3 align="center">A developer passionate about technology.</h3>
 
-- 🔭 I’m currently working at **Jimi Robo**
+<p align="center"> 🔭 I’m currently working at Jimi Robo </p> 
+<p align="center"> 🌱 I’m currently learning: Python, Kivy, Microservices,  ... </p>
+<p align="center"> 📫 How to reach me: tatianymori@gmail.com </p>
+<p align="center"> ⚡ Fun fact: Computer Engineering Student </p>
 
-- 🌱 I’m currently learning **Python** ...
+<br>
 
-- ⚡ Fun fact: **Computer Engineering Student**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me :D</h3>
+<p align="center">
 <a href="https://twitter.com/WatashiWaKeiko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Keiko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tatianymori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tatiany-mori" height="30" width="40" /></a>
 <a href="https://facebook.com/tatianymori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tatiany-mori" height="30" width="40" /></a>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.java.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://https://www.cprogramming.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -25,6 +28,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
 </p>
 
+<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=keikomori&show_icons=true&locale=en&layout=compact" alt="keikomori" /></p>
 
