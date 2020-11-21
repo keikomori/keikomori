@@ -4,7 +4,7 @@
 <p align="center"> 🔭 I’m currently working at Jimi Robo </p> 
 <p align="center"> 🌱 I’m currently learning: Python, Speech Recognizer, Machine Learning, DeepSpeech, ... </p>
 <p align="center"> 📫 How to reach me: tatianymori@gmail.com </p>
-<p align="center"> ⚡ Fun fact: Computer Engineering Student </p>
+<p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
 <br>
 
