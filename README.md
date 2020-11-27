@@ -2,7 +2,7 @@
 <h3 align="center">A developer passionate about technology.</h3>
 
 <p align="center"> 🔭 I’m currently working at Jimi Robo </p> 
-<p align="center"> 🌱 I’m currently learning: Python, Speech Recognizer, Machine Learning, DeepSpeech, ... </p>
+<p align="center"> 🌱 I’m currently learning: Python, Speech Recognizer, Machine Learning, DeepSpeech, Keras ... </p>
 <p align="center"> 📫 How to reach me: tatianymori@gmail.com </p>
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
