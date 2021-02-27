@@ -23,7 +23,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Python/python.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://https://www.cprogramming.com/" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/C/c.svg" alt="c" width="40" height="40"/></a>
   <a href="https://developer.android.com/studio/" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Android/android.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/></a> 
   <a href="https://bitbucket.org/" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Bitbucket/bitbucket.svg" alt="bitbucket" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Git/git.svg" alt="git" width="40" height="40"/></a>
 </p>
