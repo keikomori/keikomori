@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <a href="https://www.java.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+  <a href="https://www.python.org" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Python/python.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://https://www.cprogramming.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://developer.android.com/studio/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
