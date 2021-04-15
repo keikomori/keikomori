@@ -32,11 +32,17 @@
 
 <h3>Languages</h3>
 <p>
-  <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/Java/java_button_icon_151928.svg" alt="java"/></a> 
+  <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.learncpp.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.svg" alt="python" width="40" height="40"/>
+  
+ 
+
 </p>
 
 <p align="center"> 
-  <a href="https://www.java.com" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Java/java.svg" alt="java" width="40" height="40"/></a> 
+
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Python/python.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://https://www.cprogramming.com/" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/C/c.svg" alt="c" width="40" height="40"/></a>
   <a href="https://developer.android.com/studio/" target="_blank"><img src="https://github.com/keikomori/icons/blob/master/Android/android.svg" alt="android" width="40" height="40"/></a>
