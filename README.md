@@ -27,6 +27,9 @@
   <a href="https://join.skype.com/invite/FgDgKy51GcLS">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Skype/skype.svg" alt="skype" />
   </a>
+  <a href="https://pt.stackoverflow.com/users/198250/keiko-mori">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
+  </a>
 </p>
 
 
