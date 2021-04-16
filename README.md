@@ -14,15 +14,12 @@
 
 <h2>Connect with me</h2>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/tatianymori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/icons/LinkedIn/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/tatianymori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/icons/Facebook/facebook.svg" alt="facebook" height="30" width="40" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram_button_icon_151849.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://instagram.com/tatianymori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/icons/Instagram/instagram.svg" alt="instagram" height="30" width="40" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram_button_icon_151849.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
