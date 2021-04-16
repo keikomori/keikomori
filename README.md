@@ -16,10 +16,10 @@
 
 <p>
   <a href="https://linkedin.com/in/tatianymori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram_button_icon_151849.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin_button_icon_151847.svg" alt="linkedin" />
   </a>
   <a href="https://instagram.com/tatianymori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram_button_icon_151849.svg" alt="instagram" height="30" width="40" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram_button_icon_151849.svg" alt="instagram" />
   </a>
 </p>
 
