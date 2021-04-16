@@ -10,9 +10,8 @@
 <p align="center"> 📫 How to reach me: tatianymori@gmail.com </p>
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
-<br>
 
-<h2>Connect with me</h2>
+<h2>🔌 Connect with me</h2>
 
 <p>
   <a href="https://linkedin.com/in/tatianymori">
@@ -23,9 +22,8 @@
   </a>
 </p>
 
-<br>
 
-<h2>Skills</h2>
+<h2>👩‍💻 Skills</h2>
 
 <p>
   <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
@@ -50,6 +48,15 @@
   <a href="https://grafana.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Grafana/grafana.svg" alt="grafana" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
-<br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=keikomori&show_icons=true&locale=en&layout=compact" alt="keikomori" /></p>
+<h2>🔥 GitHub Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=keikomori&theme=dracula" alt="keikomori" />
+</p>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=keikomori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
