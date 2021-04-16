@@ -31,7 +31,7 @@
   <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
   <a href="https://www.learncpp.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.svg" alt="python" width="40" height="40"/>
   <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
-  <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.svg" alt="arduino" width="40" height="40"/>
+  <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/>
   <a href="https://www.ti.com/tool/CCSTUDIO"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Code%20Composer/ccstudio.jpg" alt="codecomposer" width="40" height="40"/>
   <a href="https://developer.android.com/studio/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Android/android.svg" alt="androidstudio" width="40" height="40"/>
   <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
