@@ -5,9 +5,8 @@
 
 <h3 align="center">A developer passionate about technology.</h3>
 
-<p align="center"> 🔭 I’m currently working at Voraz Tecnologia </p> 
-<p align="center"> 🌱 I’m currently learning: Python, Speech Recognizer, Machine Learning, DeepSpeech, Keras ... </p>
-<p align="center"> 📫 How to reach me: tatianymori@gmail.com </p>
+<p align="center"> 💼 Working at Voraz Tecnologia </p> 
+<p align="center"> 🌱 I’m currently learning: Python </p>
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
 
@@ -19,6 +18,9 @@
   </a>
   <a href="https://instagram.com/tatianymori">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram_button_icon_151849.svg" alt="instagram" />
+  </a>
+  <a href="mailto:tatianymori@gmail.com">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail_button_icon_151848.svg" alt="gmail" />
   </a>
 </p>
 
