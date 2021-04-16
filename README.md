@@ -56,13 +56,13 @@
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
 
-<h2>🔥 GitHub Stats</h2>
+<h2>🔥 Streak Stats</h2>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=keikomori&theme=dracula" alt="keikomori" />
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Stats</h2>
 
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=keikomori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
