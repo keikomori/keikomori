@@ -24,7 +24,11 @@
   <a href="https://t.me/keikomori">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Telegram/telegram.svg" alt="telegram" />
   </a>
+  <a href="https://join.skype.com/invite/FgDgKy51GcLS">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Skype/skype.svg" alt="skype" />
+  </a>
 </p>
+
 
 
 <h2>👩‍💻 Skills</h2>
