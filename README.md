@@ -14,13 +14,16 @@
 
 <p>
   <a href="https://linkedin.com/in/tatianymori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin_button_icon_151847.svg" alt="linkedin" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
   </a>
   <a href="https://instagram.com/tatianymori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram_button_icon_151849.svg" alt="instagram" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
   <a href="mailto:tatianymori@gmail.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail_button_icon_151848.svg" alt="gmail" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+  </a>
+  <a href="https://t.me/keikomori">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Telegram/telegram.svg" alt="telegram" />
   </a>
 </p>
 
