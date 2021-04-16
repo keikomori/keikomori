@@ -5,8 +5,7 @@
 
 <h3 align="center">A developer passionate about technology.</h3>
 
-<p align="center"> 💼 Working at Voraz Tecnologia </p> 
-<p align="center"> 🌱 I’m currently learning: Python </p>
+<p align="center"> 💼 Working at VORAZ Tecnologia </p> 
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
 
@@ -63,4 +62,9 @@
 
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=keikomori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
+<p align="center"> If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 </p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/keikomori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
