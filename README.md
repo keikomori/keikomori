@@ -5,7 +5,7 @@
 
 <h3 align="center">A developer passionate about technology.</h3>
 
-<p align="center"> 💼 Working at VORAZ Tecnologia </p> 
+<p align="center"> 💼 Working at <a href="https://voraztecnologia.com/">VORAZ Tecnologia</a> </p> 
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
 
