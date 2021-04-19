@@ -11,7 +11,7 @@
 
 <h2>🔌 Connect with me</h2>
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/tatianymori">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
   </a>
@@ -36,7 +36,7 @@
 
 <h2>👩‍💻 Skills</h2>
 
-<p>
+<p align="center">
   <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
   <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.png" alt="java" width="40" height="40"/>
   <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
@@ -69,6 +69,14 @@
 
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=keikomori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
+<h2>⭐ Badges</h2>
+
+<p align="center">
+  <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-professional-certificate.1"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/scrum-foundation-professional-certificate.1.png"  width="100" height="100"/>
+  <a href="https://www.credly.com/earner/earned/badge/93bb1ef0-7d5d-4a0b-bd96-9b7b542c1677/"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/cybersecurity-essentials.png" alt="grafana" width="100" height="100"/>
+  <a href="https://www.credly.com/badges/2a093b9f-925d-43d0-932f-ad1fca326901/public_url"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/networking-academy-learn-a-thon-2021.1.png" alt="wordpress" width="100" height="100"/>
 </p>
 
 <!--
