@@ -18,14 +18,8 @@
   <a href="https://instagram.com/tatianymori">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:tatianymori@gmail.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-  </a>
   <a href="https://t.me/keikomori">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Telegram/telegram.svg" alt="telegram" />
-  </a>
-  <a href="https://join.skype.com/invite/FgDgKy51GcLS">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Skype/skype.svg" alt="skype" />
   </a>
   <a href="https://pt.stackoverflow.com/users/198250/keiko-mori">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
@@ -78,12 +72,14 @@
   <a href="https://www.credly.com/earner/earned/badge/93bb1ef0-7d5d-4a0b-bd96-9b7b542c1677/"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/cybersecurity-essentials.png" alt="grafana" width="100" height="100"/>
   <a href="https://www.credly.com/badges/2a093b9f-925d-43d0-932f-ad1fca326901/public_url"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/networking-academy-learn-a-thon-2021.1.png" alt="wordpress" width="100" height="100"/>
 </p>
+    
+<br>
 
-<!--
+<h2 align="center">🔥 keikomori </h2>
 
-<p align="center"> If you consider buying me a coffee/tea 🥺👉👈 </p>
 <p align="center">
+  <a>If you consider buying me a coffee/tea 🥺👉👈 </a> <br>
   <a href="https://www.buymeacoffee.com/keikomori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
 
- -->
+
