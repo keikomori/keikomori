@@ -18,12 +18,6 @@
   <a href="https://instagram.com/tatianymori">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="https://t.me/keikomori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Telegram/telegram.svg" alt="telegram" />
-  </a>
-  <a href="https://pt.stackoverflow.com/users/198250/keiko-mori">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
-  </a>
 </p>
 
 
