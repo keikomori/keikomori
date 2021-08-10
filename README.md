@@ -69,9 +69,9 @@
     
 <br>
 
-<h2 align="center">🔥 keikomori </h2>
+<!--h2 align="center">🔥 keikomori </h2>
 
-<p align="center">
+<!-- p align="center">
   <a>If you consider buying me a coffee/tea 🥺👉👈 </a> <br>
   <a href="https://www.buymeacoffee.com/keikomori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
