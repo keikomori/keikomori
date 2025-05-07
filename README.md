@@ -15,9 +15,9 @@ Especialista em mapear processos, projetar soluções e integrar sistemas com pr
 
 - 🎓 Formada em **Engenharia da Computação**, com visão além do código: arquitetura, estratégia e impacto.
 - 🏗️ Adoro **mapear processos de negócios** e transformar necessidades em soluções reais, desenhando integrações e automações eficientes.
-- 💻 Trabalho com **Python, Odoo, Docker Swarm, Portainer, Traefik, Grafana, RabbitMQ e PostgreSQL**.
-- 🔌 Crio integrações robustas entre Odoo e APIs externas, otimizando operações e garantindo escalabilidade.
-- 📊 Uso ferramentas de monitoramento e roteamento inteligente para garantir performance, rastreabilidade e alta disponibilidade.
+- 💻 Trabalho principalmente com **Odoo (versões 16, 17, 18)**, desenvolvendo customizações, integrações, automações e soluções que elevam os resultados dos clientes.
+- 🔌 Integro Odoo com APIs externas e sistemas legados usando **Python, Docker Swarm, Portainer, Traefik, RabbitMQ e PostgreSQL**.
+- 📊 Uso ferramentas de monitoramento e roteamento inteligente (**Grafana**, **Traefik**) para garantir performance, rastreabilidade e alta disponibilidade.
 - 🔒 Atuo com **LGPD** e práticas avançadas de proteção de dados, oferecendo soluções seguras e compliance-ready.
 - ✨ Apaixonada por aprender, evoluir e transformar desafios complexos em entregas simples e impactantes.
 
@@ -47,8 +47,13 @@ Especialista em mapear processos, projetar soluções e integrar sistemas com pr
 ### 📊 GitHub Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keikomori&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keikomori&layout=compact&theme=radical" alt="Top Languages"/>
+ <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keikomori&theme=radical" alt="GitHub Summary Card"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keikomori&theme=radical" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keikomori&theme=radical&utcOffset=3" alt="Commits"/>ø
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keikomori&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keikomori&theme=radical" alt="Most Commit Language"/>
+</p>
 </p>
 
 ---
@@ -56,6 +61,9 @@ Especialista em mapear processos, projetar soluções e integrar sistemas com pr
 ### 🌍 Conecte-se comigo
 
 <p align="center">
+  <a href="https://keikosolutions.com.br">
+    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/tatianymori">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
