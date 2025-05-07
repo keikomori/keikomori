@@ -62,7 +62,7 @@ Especialista em mapear processos, projetar soluções e integrar sistemas com pr
   <a href="https://instagram.com/tatianymori">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@dominio.com">
+  <a href="mailto:developer@keikosolutions.com.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
