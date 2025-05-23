@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou a Tati Mori!</h1>
+<h1 align="center">👋 Olá, eu sou a Taty!</h1>
 
 <p align="center">
 Engenheira de Computação | Desenvolvedora Sênior Python & Odoo | MBA em DPO 🔒<br>
@@ -16,7 +16,7 @@ Especialista em mapear processos, projetar soluções e integrar sistemas com pr
 - 🎓 Formada em **Engenharia da Computação**, com visão além do código: arquitetura, estratégia e impacto.
 - 🏗️ Adoro **mapear processos de negócios** e transformar necessidades em soluções reais, desenhando integrações e automações eficientes.
 - 💻 Trabalho principalmente com **Odoo (versões 16, 17, 18)**, desenvolvendo customizações, integrações, automações e soluções que elevam os resultados dos clientes.
-- 🔌 Integro Odoo com APIs externas e sistemas legados usando **Python, Docker Swarm, Portainer, Traefik, RabbitMQ e PostgreSQL**.
+- 🔌 Integro Odoo com APIs externas e sistemas legados usando **Python, Docker Swarm, Portainer, Traefik, RabbitMQ e PostgreSQL**. Futuramente **NiFi**.
 - 📊 Uso ferramentas de monitoramento e roteamento inteligente (**Grafana**, **Traefik**) para garantir performance, rastreabilidade e alta disponibilidade.
 - 🔒 Atuo com **LGPD** e práticas avançadas de proteção de dados, oferecendo soluções seguras e compliance-ready.
 - ✨ Apaixonada por aprender, evoluir e transformar desafios complexos em entregas simples e impactantes.
