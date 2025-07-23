@@ -50,7 +50,7 @@ Especialista em mapear processos, projetar soluções e integrar sistemas com pr
  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keikomori&theme=radical" alt="GitHub Summary Card"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keikomori&theme=radical" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keikomori&theme=radical&utcOffset=3" alt="Commits"/>ø
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keikomori&theme=radical&utcOffset=3" alt="Commits"/> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keikomori&theme=radical" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keikomori&theme=radical" alt="Most Commit Language"/>
 </p>
